@@ -1,4 +1,4 @@
-import { ERROR,GET_SMURFS,GETTING_SMURFS,CREATING_SMURF,CREATE_SMURF } from '../actions'
+import { ERROR,GET_SMURFS,GETTING_SMURFS,CREATING_SMURF,CREATE_SMURF } from '../actions/index';
 
  const initialState = {
    smurfs: [],

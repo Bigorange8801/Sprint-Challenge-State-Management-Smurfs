@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const Errror = 'Error';
+export const ERROR = 'ERROR';
 export const GET_SMURFS = 'GET_SMURFS';
 export const GETTING_SMURFS = 'GETTING_SMURFS';
 export const CREATING_SMURF = ' CREATING_SMURF';
